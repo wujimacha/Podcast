@@ -7,7 +7,7 @@ Comments, feedback and suggestions please head to the [Discussions](https://gith
 <br>評論，反饋和建議請至 [Discussions](https://github.com/wujimacha/Podcast-Outreach/discussions) 頁面。
 
 To see what the production team is up to, please head to the [Projects](https://github.com/wujimacha/Podcast-Outreach/projects) page.
-<br>查看製作組進度正在做什麼請至 [Projects](https://github.com/wujimacha/Podcast-Outreach/projects) 頁面。
+<br>查看製作組正在做什麼請至 [Projects](https://github.com/wujimacha/Podcast-Outreach/projects) 頁面。
 
 Happy listening : )
 <br>收聽愉快：）
