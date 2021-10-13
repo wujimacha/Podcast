@@ -1,7 +1,4 @@
-# WūJīMāChā Podcast | 瞭望台
-
-Home page: [https://www.wujimacha.com/podcast](https://www.wujimacha.com/podcast)
-<br>主頁：[https://www.wujimacha.com/podcast](https://www.wujimacha.com/podcast)
+# [WūJīMāChā Podcast | 瞭望台](https://www.wujimacha.com/podcast)
 
 Comments, feedback and suggestions please head to the [Discussions](https://github.com/wujimacha/Podcast-Outreach/discussions) page.
 <br>評論，反饋和建議請至 [Discussions](https://github.com/wujimacha/Podcast-Outreach/discussions) 頁面。
