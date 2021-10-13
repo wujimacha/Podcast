@@ -1,6 +1,6 @@
 # WūJīMāChā Podcast | 瞭望台
 
-Home page: [https://www.wujimacha.com/podcast](https://www.wujimacha.com/podcast)
+Home page: [https://www.wujimacha.com/podcast](https://www.wujimacha.com/podcast){target="_blank"}
 <br>主頁：[https://www.wujimacha.com/podcast](https://www.wujimacha.com/podcast)
 
 Comments, feedback and suggestions please head to the [Discussions](https://github.com/wujimacha/Podcast-Outreach/discussions) page.
